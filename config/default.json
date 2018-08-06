@@ -1,0 +1,7 @@
+{
+    "service_name": "upgradeit",
+    "region": "eu-west-1",
+    "environment": "prod",
+    "website_bucket_name": "upgrade-it.be",
+    "local_sync_folder": "site"
+}
